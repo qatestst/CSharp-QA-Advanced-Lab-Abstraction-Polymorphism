@@ -35,7 +35,15 @@ namespace Cars
         {
             return $"{this.color} Seat {this.model}\n" +
                 $"{this.Start()}\n" +
+<<<<<<< HEAD
                 $"{this.Stop()}";
+=======
+<<<<<<< HEAD
+                $"{this.Stop()}";
+=======
+                $"{this.Start()}";
+>>>>>>> f66b935f539f115b5c3010a23eddcf78c8e9fe6c
+>>>>>>> b3556ae75e6f481881383dd5e5c6c364623f14db
         }
 
 
