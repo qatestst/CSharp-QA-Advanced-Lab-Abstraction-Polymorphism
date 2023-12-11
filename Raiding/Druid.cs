@@ -1,4 +1,5 @@
-﻿using Raiding.Models;
+﻿using Raiding;
+using Raiding.Models;
 
 internal class Druid : Healer 
 {
